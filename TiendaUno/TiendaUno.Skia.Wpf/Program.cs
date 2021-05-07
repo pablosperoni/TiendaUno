@@ -1,0 +1,4 @@
+﻿
+namespace TiendaUno.Skia.Gtk
+{
+}
